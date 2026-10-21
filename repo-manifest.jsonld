@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jupyterhub/chartpress/commit/f7d727abccb67bbb352f330d92c68e8b995c96cb",
       "git:hexsha": "f7d727abccb67bbb352f330d92c68e8b995c96cb",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T22:11:48.232659+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jupyterhub/chartpress/commit/d351d379e3c82fc32cf0d7fdd4b5994de47df89b",
